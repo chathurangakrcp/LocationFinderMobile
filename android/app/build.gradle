@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.locationfinder"
+    namespace "com.locationfinderapp"
     defaultConfig {
-        applicationId "com.locationfinder"
+        applicationId "com.locationfinderapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

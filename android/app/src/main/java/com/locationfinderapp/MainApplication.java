@@ -1,4 +1,4 @@
-package com.locationfinder;
+package com.locationfinderapp;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "LocationFinder.app"
-               BlueprintName = "LocationFinder"
-               ReferencedContainer = "container:LocationFinder.xcodeproj">
+               BuildableName = "LocationFinderApp.app"
+               BlueprintName = "LocationFinderApp"
+               ReferencedContainer = "container:LocationFinderApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "LocationFinderTests.xctest"
-               BlueprintName = "LocationFinderTests"
-               ReferencedContainer = "container:LocationFinder.xcodeproj">
+               BuildableName = "LocationFinderAppTests.xctest"
+               BlueprintName = "LocationFinderAppTests"
+               ReferencedContainer = "container:LocationFinderApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "LocationFinder.app"
-            BlueprintName = "LocationFinder"
-            ReferencedContainer = "container:LocationFinder.xcodeproj">
+            BuildableName = "LocationFinderApp.app"
+            BlueprintName = "LocationFinderApp"
+            ReferencedContainer = "container:LocationFinderApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "LocationFinder.app"
-            BlueprintName = "LocationFinder"
-            ReferencedContainer = "container:LocationFinder.xcodeproj">
+            BuildableName = "LocationFinderApp.app"
+            BlueprintName = "LocationFinderApp"
+            ReferencedContainer = "container:LocationFinderApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
